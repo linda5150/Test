@@ -8,3 +8,4 @@ test push
    2. The second time.Webhook has been configed.
    Paload url: "http://106.14.190.177:3100/api/github/testbed"
    Without secret.
+   3. The ssh_pull.sh is OK. To upload for three times.
